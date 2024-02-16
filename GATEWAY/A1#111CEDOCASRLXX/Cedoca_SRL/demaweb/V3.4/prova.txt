@@ -1,1 +1,12 @@
-
+{
+  "appVendor": "Cedoca Srl",
+  "appID": "demaweb",
+  "appVersion": "3.4",
+  "results": [
+    {
+      "id": 1,
+      "ts": "",
+      "traceId": "",
+      "workflowInstanceId": "",
+      "files": [""]
+    },
